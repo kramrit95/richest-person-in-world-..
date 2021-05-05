@@ -1,0 +1,54 @@
+
+
+body {
+    margin:0;
+    padding:0;
+    box-sizing:border-box ;
+    font-family:"poppins",sans-serif;
+}
+.container .slider{
+    height:40px;
+    border:4px inset  #fef0f6;
+    margin-bottom:10px;
+    padding-left:23px;
+    padding-top:17px;
+    box-shadow:2px 5px #fff;
+}
+.container .slider a{
+    text-decoration:none;
+    font-size:11px;
+    margin:9px;
+    color:#000;
+    text-transform:uppercase ;
+    height:20px;
+}
+.container{
+    margin-top:10px;
+}
+
+.container .image img{
+    width:340px;
+    height:230px;
+    padding:10px;
+}
+.container h3{
+    padding-top:0px;
+    padding-left:17px;
+    padding-right:13px;
+    
+}
+
+.container .para p{
+    margin-left:15px;
+    margin-right:17px;
+    margin-top:5px;
+    line-height:24px;
+    word-break:keep-all;
+    font-family: 'Bodoni Moda', serif;
+
+
+}
+a{
+    text-decoration:none;
+    color:black;
+}
